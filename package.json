@@ -19,7 +19,8 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.7.0",
-    "lodash.assign": "^4.0.9"
+    "lodash.assign": "^4.0.9",
+    "jquery": "^2.2.4"
   },
   "dependencies": {
     "browserify": "^13.0.1"
