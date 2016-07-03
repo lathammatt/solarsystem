@@ -7,9 +7,9 @@ arguments[4][1][0].apply(exports,arguments)
 
 $(document).ready(function (){
 
+	var dombox = $("#outbox");
 	let universe = require("./solar.js");
 
-	var dombox = $("#outbox");
 
 
 });
