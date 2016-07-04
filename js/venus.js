@@ -7,4 +7,3 @@ function outputTo(dombox) {
 
 module.exports = outputTo;
 
-console.log("venus");
