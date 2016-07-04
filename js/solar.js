@@ -21,3 +21,5 @@ let solarSystem = {
 };
 
 module.exports = solarSystem;
+
+console.log("solar", solarSystem);
