@@ -29,10 +29,6 @@ $(document).ready(function (){
 
 	let universe = require("./solar.js");
 
-	// for (var planet in universe) {
-	// 	console.log("plan", planet);
-	// 	universe.planet;
-	// }
 
 	universe.mercury(dombox);
 	universe.venus(dombox);
@@ -42,8 +38,6 @@ $(document).ready(function (){
 	universe.saturn(dombox);
 	universe.uranus(dombox);
 	universe.neptune(dombox);
-
-	console.log("uni", universe);
 
 });
 },{"./solar.js":8}],4:[function(require,module,exports){
